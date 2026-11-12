@@ -208,4 +208,4 @@ This repository serves as the official landing page for N++. The software is dis
 **Get the most recent version of N++ today!**
 
 ---
-**Last updated:** 2026-11-12 13:22:50 UTC
+**Last updated:** 2026-11-12 21:11:43 UTC
